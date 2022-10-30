@@ -37,3 +37,10 @@ may be appropriate.
 [rst]: http://docutils.sourceforge.net/rst.html
 [md]: https://tools.ietf.org/html/rfc7764#section-3.5 "CommonMark variant"
 [md use]: https://packaging.python.org/specifications/core-metadata/#description-content-type-optional
+
+-----
+# TODOs
+
+Explain how to submit new schemas AND schemas for new omnibenchmark
+
+Dev section: how to install, run it, what it does
